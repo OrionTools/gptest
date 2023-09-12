@@ -1,0 +1,33 @@
+{
+  "name": "gptest",
+  "version": "0.0.1",
+  "description": "Non-deterministic helpers and assertions for AI, GPT and LLM powered apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Matt Carey",
+    "email": "mattc@aleios.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrionTools/gptest.git"
+  },
+  "keywords": [
+    "ai",
+    "gpt",
+    "llm",
+    "testing",
+    "assertions",
+    "helpers",
+    "non-deterministic",
+    "jest",
+    "vitest"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OrionTools/gptest/issues"
+  },
+  "homepage": "https://github.com/OrionTools/gptest#readme"
+}

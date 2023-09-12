@@ -1,2 +1,2 @@
-# gptest
-Non-deterministic helpers and assertions for AI, GPT, LLM apps
+# GPTest
+Non-deterministic helpers and assertions for AI, GPT and LLM powered apps
